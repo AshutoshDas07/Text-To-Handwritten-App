@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Text to Handwritten</string>
+    <string name ="permission_read_external_storage">Permissions Required for Accessing Local Storage </string>
+</resources>
